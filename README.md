@@ -3,6 +3,6 @@ datasciencecoursera
 
 A repo for the Coursera Data Science series of MOOCs offered by Johns Hopkins
 
-change 1
+change 2 - here is a line that has been modified
 
-change 2
+here is a new line that has been added
